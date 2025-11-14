@@ -24,7 +24,7 @@
             <a class="nav-link" href="<?php echo site_url('todo'); ?>">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="<?php echo site_url('todo/add'); ?>">Add Task</a>
+            <a class="nav-link" href="<?php echo site_url('todo/add'); ?>">Tambah Tugas</a>
           </li>
           <li class="nav-item">
             <a class="nav-link text-danger" href="<?php echo site_url('auth/logout'); ?>">Logout</a>

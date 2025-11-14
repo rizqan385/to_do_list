@@ -5,7 +5,7 @@
 
 <footer class="text-center mt-5 mb-3 text-muted">
   <hr>
-  <p>&copy; <?php echo date('Y'); ?> To-Do List App | Built with ❤️ by Rizqan</p>
+  <p>&copy; <?php echo date('Y'); ?> To-Do List App</p>
 </footer>
 
 </body>
